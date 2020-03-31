@@ -1,0 +1,16 @@
+{
+  "name": "arrayfilter-example",
+  "version": "1.0.0",
+  "description": "In a similar way to map(), the filter() method creates a new array. However, this method only returns the elements that pass the test provided in the callback function. In this example, the method will return only the elements that start with a \"b\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["Array iteration", "javascript", "arrays", "iteration", "array filter", "filter item", "matching item", "filter"]
+}
